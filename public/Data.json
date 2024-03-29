@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://s3-alpha-sig.figma.com/img/dc2b/01d7/bf69b0786c15caeae95edc74821add1d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=M5ppFTPZgnJHzDslRre1cB2TzVvRw7ENBjm9DSMqES7uG-8MJ04lY0SKRFTv8JwIS4cQpAdf6OU2a6Duth-firyErBrPRKNeCf6ibrZdGjFtTs4v~Gd0KYp5BH915SUD9kbkMjkrxBc1RBbs2QyxsORHRR5eGJvYaXFM9ma4z9~cx72Wa52QmZlHN84vjZ8kB4DahegmpntxSew-6kLpXgHKJjfluILxdyT7gJux9T-DkUFD21R59x7gMky4m4QBVm-ScmaTZ50WaT9auozPto3fUObZO3rGHAyASNf4HnWFXJtEQEWZnmOKvoTwXPR9~c7DzyxXjxz8UaENgOcx~Q__",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "rgba(0,82,255,0.20)",
+        "card_bg": "rgba(0,82,255,0.15)",
+        "text_button_bg": "#0052FF",
+        "description": "Provide clean and safe drinking water for children in underserved communities.",
+        "price": "$12.99"
+    },
+    {
+        "id": 2,
+        "picture": "https://s3-alpha-sig.figma.com/img/3236/7f7c/bb78eb35b1d83676bfeb091b0af13288?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EyuqgD51bPBD9Nlwdo9yglB3MVLJ1Qq1Za9gUnGoNIZbNmQ2MUxxduXRY-AopGlmNpbSZduR87NAqUzRuIcaDng7G-p2qplvXau2dn6oKEdZ4AUvgQ7quZ4RKqf1u89~9NQzzg4zGVOymeJKPIOLoBcxiqgV1N2S5VfcuugGhoixnrLDHBMnccQc0PiMJEhIbHBrKR~9Q6yjmfgZ9EKoc~V1hlGpTGloFNJvLmh4O4uUuHofkQCT2vmqy4gkg5jUmRMuG3ICbaKqMPUXNKWZfmaZnvk-q7F8jTMwN4y-Wp~UfUGeafY3ewQzpFRoU-fZ2krrFBI1flAgV~9953aOXg__",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "rgba(255,68,74,0.20)",
+        "card_bg": "rgba(255,68,74,0.15)",
+        "text_button_bg": "#FF444A",
+        "description": "Support quality education initiatives to empower children with knowledge and skills for a better future.",
+        "price": "$14.95"
+    },
+    {
+        "id": 3,
+        "picture": "https://s3-alpha-sig.figma.com/img/ff66/6d19/a5a6654d792205c42250767f04885dec?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ioq~7BiupD3mf2TleqPqLQXG-hP0JoYZTbxX0WLBkPQ47rOw8VWEwnCoxRiYt72R4g4OF-P6OIlOZBUMx3VKfC9tLSvrnQQaMRB1vZ0LHEDOzbw4vWvaS-W7O82CUS7sW6O5P6imOPQaMD-WexSMMofQrloZSp3VbefDved920HCmGESzV~Ei-u1pxNlsaisJcHCp5AETZqzwbLy8myhS1T6fw~6XSj-G0VkhHueGY9sQmR6rXVZ89XU7rjTDbc9pE5l4diPK86o47BPnJsuiObb~mJEBS8uv1HN1mifEx7tzaxFfJwJ7palW6b-Ys-u6R2cmaWkWMeRxHVJzaTS8g__",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "rgba(121,194,63,0.20)",
+        "card_bg": "rgba(121,194,63,0.15)",
+        "text_button_bg": "#79C23F",
+        "description": "Collect and distribute gently used clothing to those in need, promoting sustainability and community support.",
+        "price": "$16.99"
+    },
+    {
+        "id": 4,
+        "picture": "https://s3-alpha-sig.figma.com/img/dc2b/01d7/bf69b0786c15caeae95edc74821add1d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=M5ppFTPZgnJHzDslRre1cB2TzVvRw7ENBjm9DSMqES7uG-8MJ04lY0SKRFTv8JwIS4cQpAdf6OU2a6Duth-firyErBrPRKNeCf6ibrZdGjFtTs4v~Gd0KYp5BH915SUD9kbkMjkrxBc1RBbs2QyxsORHRR5eGJvYaXFM9ma4z9~cx72Wa52QmZlHN84vjZ8kB4DahegmpntxSew-6kLpXgHKJjfluILxdyT7gJux9T-DkUFD21R59x7gMky4m4QBVm-ScmaTZ50WaT9auozPto3fUObZO3rGHAyASNf4HnWFXJtEQEWZnmOKvoTwXPR9~c7DzyxXjxz8UaENgOcx~Q__",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "rgba(0,82,255,0.20)",
+        "card_bg": "rgba(0,82,255,0.15)",
+        "text_button_bg": "#0052FF",
+        "description": "Provide clean and safe drinking water for children in underserved communities.",
+        "price": "$12.99"
+    },
+    {
+        "id": 5,
+        "picture": "https://s3-alpha-sig.figma.com/img/3236/7f7c/bb78eb35b1d83676bfeb091b0af13288?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EyuqgD51bPBD9Nlwdo9yglB3MVLJ1Qq1Za9gUnGoNIZbNmQ2MUxxduXRY-AopGlmNpbSZduR87NAqUzRuIcaDng7G-p2qplvXau2dn6oKEdZ4AUvgQ7quZ4RKqf1u89~9NQzzg4zGVOymeJKPIOLoBcxiqgV1N2S5VfcuugGhoixnrLDHBMnccQc0PiMJEhIbHBrKR~9Q6yjmfgZ9EKoc~V1hlGpTGloFNJvLmh4O4uUuHofkQCT2vmqy4gkg5jUmRMuG3ICbaKqMPUXNKWZfmaZnvk-q7F8jTMwN4y-Wp~UfUGeafY3ewQzpFRoU-fZ2krrFBI1flAgV~9953aOXg__",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "rgba(255,68,74,0.20)",
+        "card_bg": "rgba(255,68,74,0.15)",
+        "text_button_bg": "#FF444A",
+        "description": "Support quality education initiatives to empower children with knowledge and skills for a better future.",
+        "price": "$14.95"
+    },
+    {
+        "id": 6,
+        "picture": "https://s3-alpha-sig.figma.com/img/ff66/6d19/a5a6654d792205c42250767f04885dec?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ioq~7BiupD3mf2TleqPqLQXG-hP0JoYZTbxX0WLBkPQ47rOw8VWEwnCoxRiYt72R4g4OF-P6OIlOZBUMx3VKfC9tLSvrnQQaMRB1vZ0LHEDOzbw4vWvaS-W7O82CUS7sW6O5P6imOPQaMD-WexSMMofQrloZSp3VbefDved920HCmGESzV~Ei-u1pxNlsaisJcHCp5AETZqzwbLy8myhS1T6fw~6XSj-G0VkhHueGY9sQmR6rXVZ89XU7rjTDbc9pE5l4diPK86o47BPnJsuiObb~mJEBS8uv1HN1mifEx7tzaxFfJwJ7palW6b-Ys-u6R2cmaWkWMeRxHVJzaTS8g__",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "rgba(121,194,63,0.20)",
+        "card_bg": "rgba(121,194,63,0.15)",
+        "text_button_bg": "#79C23F",
+        "description": "Collect and distribute gently used clothing to those in need, promoting sustainability and community support.",
+        "price": "$16.99"
+    },
+    {
+        "id": 7,
+        "picture": "https://s3-alpha-sig.figma.com/img/dc2b/01d7/bf69b0786c15caeae95edc74821add1d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=M5ppFTPZgnJHzDslRre1cB2TzVvRw7ENBjm9DSMqES7uG-8MJ04lY0SKRFTv8JwIS4cQpAdf6OU2a6Duth-firyErBrPRKNeCf6ibrZdGjFtTs4v~Gd0KYp5BH915SUD9kbkMjkrxBc1RBbs2QyxsORHRR5eGJvYaXFM9ma4z9~cx72Wa52QmZlHN84vjZ8kB4DahegmpntxSew-6kLpXgHKJjfluILxdyT7gJux9T-DkUFD21R59x7gMky4m4QBVm-ScmaTZ50WaT9auozPto3fUObZO3rGHAyASNf4HnWFXJtEQEWZnmOKvoTwXPR9~c7DzyxXjxz8UaENgOcx~Q__",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "rgba(0,82,255,0.20)",
+        "card_bg": "rgba(0,82,255,0.15)",
+        "text_button_bg": "#0052FF",
+        "description": "Provide clean and safe drinking water for children in underserved communities.",
+        "price": "$12.99"
+    },
+    {
+        "id": 8,
+        "picture": "https://s3-alpha-sig.figma.com/img/3236/7f7c/bb78eb35b1d83676bfeb091b0af13288?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EyuqgD51bPBD9Nlwdo9yglB3MVLJ1Qq1Za9gUnGoNIZbNmQ2MUxxduXRY-AopGlmNpbSZduR87NAqUzRuIcaDng7G-p2qplvXau2dn6oKEdZ4AUvgQ7quZ4RKqf1u89~9NQzzg4zGVOymeJKPIOLoBcxiqgV1N2S5VfcuugGhoixnrLDHBMnccQc0PiMJEhIbHBrKR~9Q6yjmfgZ9EKoc~V1hlGpTGloFNJvLmh4O4uUuHofkQCT2vmqy4gkg5jUmRMuG3ICbaKqMPUXNKWZfmaZnvk-q7F8jTMwN4y-Wp~UfUGeafY3ewQzpFRoU-fZ2krrFBI1flAgV~9953aOXg__",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "rgba(255,68,74,0.20)",
+        "card_bg": "rgba(255,68,74,0.15)",
+        "text_button_bg": "#FF444A",
+        "description": "Support quality education initiatives to empower children with knowledge and skills for a better future.",
+        "price": "$14.95"
+    },
+    {
+        "id": 9,
+        "picture": "https://s3-alpha-sig.figma.com/img/ff66/6d19/a5a6654d792205c42250767f04885dec?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ioq~7BiupD3mf2TleqPqLQXG-hP0JoYZTbxX0WLBkPQ47rOw8VWEwnCoxRiYt72R4g4OF-P6OIlOZBUMx3VKfC9tLSvrnQQaMRB1vZ0LHEDOzbw4vWvaS-W7O82CUS7sW6O5P6imOPQaMD-WexSMMofQrloZSp3VbefDved920HCmGESzV~Ei-u1pxNlsaisJcHCp5AETZqzwbLy8myhS1T6fw~6XSj-G0VkhHueGY9sQmR6rXVZ89XU7rjTDbc9pE5l4diPK86o47BPnJsuiObb~mJEBS8uv1HN1mifEx7tzaxFfJwJ7palW6b-Ys-u6R2cmaWkWMeRxHVJzaTS8g__",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "rgba(121,194,63,0.20)",
+        "card_bg": "rgba(121,194,63,0.15)",
+        "text_button_bg": "#79C23F",
+        "description": "Collect and distribute gently used clothing to those in need, promoting sustainability and community support.",
+        "price": "$16.99"
+    },
+    {
+        "id": 10,
+        "picture": "https://s3-alpha-sig.figma.com/img/dc2b/01d7/bf69b0786c15caeae95edc74821add1d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=M5ppFTPZgnJHzDslRre1cB2TzVvRw7ENBjm9DSMqES7uG-8MJ04lY0SKRFTv8JwIS4cQpAdf6OU2a6Duth-firyErBrPRKNeCf6ibrZdGjFtTs4v~Gd0KYp5BH915SUD9kbkMjkrxBc1RBbs2QyxsORHRR5eGJvYaXFM9ma4z9~cx72Wa52QmZlHN84vjZ8kB4DahegmpntxSew-6kLpXgHKJjfluILxdyT7gJux9T-DkUFD21R59x7gMky4m4QBVm-ScmaTZ50WaT9auozPto3fUObZO3rGHAyASNf4HnWFXJtEQEWZnmOKvoTwXPR9~c7DzyxXjxz8UaENgOcx~Q__",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "rgba(0,82,255,0.20)",
+        "card_bg": "rgba(0,82,255,0.15)",
+        "text_button_bg": "#0052FF",
+        "description": "Provide clean and safe drinking water for children in underserved communities.",
+        "price": "$12.99"
+    },
+    {
+        "id": 11,
+        "picture": "https://s3-alpha-sig.figma.com/img/3236/7f7c/bb78eb35b1d83676bfeb091b0af13288?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EyuqgD51bPBD9Nlwdo9yglB3MVLJ1Qq1Za9gUnGoNIZbNmQ2MUxxduXRY-AopGlmNpbSZduR87NAqUzRuIcaDng7G-p2qplvXau2dn6oKEdZ4AUvgQ7quZ4RKqf1u89~9NQzzg4zGVOymeJKPIOLoBcxiqgV1N2S5VfcuugGhoixnrLDHBMnccQc0PiMJEhIbHBrKR~9Q6yjmfgZ9EKoc~V1hlGpTGloFNJvLmh4O4uUuHofkQCT2vmqy4gkg5jUmRMuG3ICbaKqMPUXNKWZfmaZnvk-q7F8jTMwN4y-Wp~UfUGeafY3ewQzpFRoU-fZ2krrFBI1flAgV~9953aOXg__",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "rgba(255,68,74,0.20)",
+        "card_bg": "rgba(255,68,74,0.15)",
+        "text_button_bg": "#FF444A",
+        "description": "Support quality education initiatives to empower children with knowledge and skills for a better future.",
+        "price": "$14.95"
+    },
+    {
+        "id": 12,
+        "picture": "https://s3-alpha-sig.figma.com/img/ff66/6d19/a5a6654d792205c42250767f04885dec?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ioq~7BiupD3mf2TleqPqLQXG-hP0JoYZTbxX0WLBkPQ47rOw8VWEwnCoxRiYt72R4g4OF-P6OIlOZBUMx3VKfC9tLSvrnQQaMRB1vZ0LHEDOzbw4vWvaS-W7O82CUS7sW6O5P6imOPQaMD-WexSMMofQrloZSp3VbefDved920HCmGESzV~Ei-u1pxNlsaisJcHCp5AETZqzwbLy8myhS1T6fw~6XSj-G0VkhHueGY9sQmR6rXVZ89XU7rjTDbc9pE5l4diPK86o47BPnJsuiObb~mJEBS8uv1HN1mifEx7tzaxFfJwJ7palW6b-Ys-u6R2cmaWkWMeRxHVJzaTS8g__",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "rgba(121,194,63,0.20)",
+        "card_bg": "rgba(121,194,63,0.15)",
+        "text_button_bg": "#79C23F",
+        "description": "Collect and distribute gently used clothing to those in need, promoting sustainability and community support.",
+        "price": "$16.99"
+    }
+]
